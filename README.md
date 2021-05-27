@@ -14,6 +14,7 @@ Coming to the applicaion, It is a quiz on famous Indian state TELANGANA and ther
 ## FEATURES
 * The option will be validated if you enter either in lower or upper case.
 * Exit option is provided after every question.
+* High scores will be displayed at the end of the quiz.
 
 ## TO PLAY THE QUIZ
 * Click on the website link given.
