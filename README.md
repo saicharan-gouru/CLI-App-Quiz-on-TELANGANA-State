@@ -4,7 +4,7 @@ This is a Command Line Interface(CLI) application. It is done as a part of neoG 
 
 The app is built using JavaScript and coded in repl.it online IDE(Integrated Development Environment).
 
-Coming to the applicaion, It is a quiz on famous state TELANGANA and there will be a total of 10 questions.
+Coming to the applicaion, It is a quiz on famous Indian state TELANGANA and there will be a total of 10 questions.
 
 ## LIBRARIES USED
 * readline-sync
